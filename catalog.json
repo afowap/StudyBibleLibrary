@@ -1,0 +1,30 @@
+{
+  "library": "StudyBible Online Library",
+  "version": 1,
+  "categories": [
+    {
+      "id": "audio",
+      "name": "Bible Audio",
+      "folder": "audio",
+      "modules": []
+    },
+    {
+      "id": "sermon",
+      "name": "Sermons",
+      "folder": "sermon",
+      "modules": []
+    },
+    {
+      "id": "verse_voice",
+      "name": "Verse Voice",
+      "folder": "verse_voice",
+      "modules": []
+    },
+    {
+      "id": "books",
+      "name": "Study Books",
+      "folder": "books",
+      "modules": []
+    }
+  ]
+}
