@@ -6,7 +6,14 @@
       "id": "audio",
       "name": "Bible Audio",
       "folder": "audio",
-      "modules": []
+      "modules": [
+        {
+          "title": "Genesis 1",
+          "description": "Bible audio — Genesis chapter 1",
+          "filename": "1_1.mp3",
+          "url": "https://drive.google.com/uc?export=download&id=1cQ_e4GcStkzIDJBJcX0MGlqkNNZix9Vn"
+        }
+      ]
     },
     {
       "id": "sermon",
